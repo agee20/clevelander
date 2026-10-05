@@ -1,0 +1,6 @@
+{
+  "name": "The Clevelander Bar & Grill",
+  "description": "Modern mobile-first website for The Clevelander Bar & Grill in Downtown Cleveland, OH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
